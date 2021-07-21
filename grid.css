@@ -1,0 +1,50 @@
+#actual {
+    grid-column: 1 / -1;
+    grid-row: 2 / 3;
+}
+
+#historial {
+    grid-column: 1 / -1;
+    grid-row: 1 / 2;
+}
+
+#cero {
+    grid-column: 2 / 3;
+    grid-row: 6 / 7;
+}
+
+#uno {
+    grid-row: 5 / 6;
+}
+
+#dos {
+    grid-row: 5 / 6;
+}
+
+#tres {
+    grid-row: 5 / 6;
+}
+
+#cuatro {
+    grid-row: 4 / 5;
+}
+
+#cinco {
+    grid-row: 4 / 5;
+}
+
+#seis {
+    grid-row: 4 / 5;
+}
+
+#siete {
+    grid-row: 3 / 4;
+}
+
+#ocho {
+    grid-row: 3 / 4;
+}
+
+#nueve {
+    grid-row: 3 / 4;
+}
